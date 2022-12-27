@@ -11,8 +11,8 @@ This system was built using the CodeIgniter framework. This system contains the 
 
   
 ## Screenshoot
-- HOME
-![This is an image](/assets/foto/home.png)
 
-- pPANEL ADMIN
-![This is an image](/assets/foto/admin.png)
+![This is an image](/assets/images/home.png)
+
+
+![This is an image](/assets/images/admin.png)
